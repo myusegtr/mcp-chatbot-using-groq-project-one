@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+
+# Virtual environments
+.venv/
+.env/
+venv/
+
+# VS Code/Cursor settings
+.vscode/
+cursor.json
+
+# OS files
+.DS_Store
+Thumbs.db
